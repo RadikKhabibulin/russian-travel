@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto 48px;
+}
+
+@media screen and (max-width: 1023px) {
+    .content {
+        margin: auto 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .content {
+        margin: auto 16px;
+    }
+}
