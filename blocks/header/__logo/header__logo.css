@@ -9,7 +9,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 320px) {
     .header__logo {
         width: 142px;
         height: 42px;

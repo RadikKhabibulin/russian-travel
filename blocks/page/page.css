@@ -1,10 +1,13 @@
 .page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: 0;
     width: 100%;
     min-height: 100vh;
     background-color: #2A2C2F;
     color: #FFFFFF;
-    font-family: Inter;
+    font-family: Inter, Arial;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
